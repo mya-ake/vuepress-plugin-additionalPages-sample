@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-plugin-additional-pages-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mya-ake/vuepress-plugin-additionalPages-sample.git",
+  "author": "mya-ake <make.app.ts@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "doc:dev": "vuepress dev docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.24"
+  }
+}
